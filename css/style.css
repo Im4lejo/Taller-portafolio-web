@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+header {
+    background: linear-gradient(60deg, #702ce5, #2b0032);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 24px;
+    display: block;
+    justify-content: center;
+    width: 10%;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+   
+}
+main {
+    margin-left: 10%;
+    padding: 20px;
+    width: 80%;
+}
+nav{
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.a{
+    justify-content: center;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
