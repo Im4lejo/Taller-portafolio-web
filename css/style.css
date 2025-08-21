@@ -20,7 +20,7 @@ header {
 }
 main {
     margin-left: 10%;
-    padding: 20px;
+    padding-left: 20px;
     width: 80%;
 }
 nav{
@@ -39,4 +39,39 @@ ul {
     display: flex;
     text-align: center;
     padding: 40px 0 20px 0;
+}
+.divimg1{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.img01{ 
+    justify-content: center;
+    width: 70px;
+    border-radius: 50%;
+}   
+.divh1 {
+    background:linear-gradient(10deg, #702ce5, #2b0032);
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    color: #ebe0fd; 
+    font-size: 25px;
+    width: 50%;
+    position: relative;
+    justify-content: center;
+}   
+.divh1 h1 {
+    margin: 0;
+    text-align: center;
+    position: relative;
+}
+.divmax1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+section {
+    text-align: center;
 }
