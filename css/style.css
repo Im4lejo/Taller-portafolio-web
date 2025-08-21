@@ -60,6 +60,7 @@ ul {
     width: 50%;
     position: relative;
     justify-content: center;
+    
 }   
 .divh1 h1 {
     margin: 0;
@@ -86,6 +87,7 @@ section {
     position: relative;
     justify-content: center;
     padding: 10px 0;
+    box-shadow: 0 10px 10px rgba(124, 2, 255, 0.2);
 }
 .section1 h1 {
     margin: 0;
@@ -113,7 +115,7 @@ section {
     display: flex;
 }
 .section2 {
-    background: linear-gradient(15deg, #ab90db, #9c18b1);
+    background: linear-gradient(290deg, #81ff7c, #54bd23);
     margin: 20px 0;
     border: 1px solid transparent;
     border-radius: 20px;
@@ -122,15 +124,16 @@ section {
     position: relative;
     justify-content: center;
     padding: 10px 0;
+    box-shadow: 0 10px 10px rgba(23, 255, 2, 0.2);
 }
 .section2 h2 {
     margin: 0;
     text-align: center;
     position: relative;
-    color: #eadbff;
+    color: #aef375;
 }
 .section2 p {
-    color: #ddd4ed;
+    color: #75875c;
     font-size: 16px;
     padding: 0 20px;
     width: 95%;
