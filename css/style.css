@@ -108,6 +108,12 @@ section {
     width: 100px;
     border-radius: 50%;
 }
+.img3{  
+    justify-content: center;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 20px 30px 20px rgba(31, 111, 24, 0.2);
+}
 .divimg2 {
     width: 100px;
     height: 100px;
@@ -191,4 +197,15 @@ h4 {
     font-size: 18px;
     text-align: center;
     margin: 0;
+}
+.divimg3 {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    border-radius: 10px;
+}
+.divimg3flex {
+ 
+    display: flex;
 }
